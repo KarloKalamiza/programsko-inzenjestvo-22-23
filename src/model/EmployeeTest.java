@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class EmployeeTest {
-/*
+
     @Test
     void getName() {
        Employee karlo = new Employee("Karlo");
@@ -16,6 +16,4 @@ public class EmployeeTest {
         Employee ivan = new Employee("ivan");
         assertEquals("ivan", ivan.getName());
     }
-
- */
 }
